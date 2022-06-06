@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "day": 25,
+    "designation": "M"
+  },
+  {
+    "id": 2,
+    "day": 26,
+    "designation": "T"
+  },
+  {
+    "id": 3,
+    "day": 27,
+    "designation": "W"
+  },
+  {
+    "id": 4,
+    "day": 28,
+    "designation": "T"
+  },
+  {
+    "id": 5,
+    "day": 29,
+    "designation": "F"
+  },
+  {
+    "id": 6,
+    "day": 30,
+    "designation": "S"
+  },
+  {
+    "id": 7,
+    "day": 31,
+    "designation": "S"
+  }
+]

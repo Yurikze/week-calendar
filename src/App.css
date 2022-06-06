@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+    font-size: 21px;
+    margin: 0;
+    font-weight: normal;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    align-items: center;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    justify-content: space-between;
+    background: url('./images/arrow-right-3098.svg');
+    background-position: center;
+    background-color: transparent;
+}
+
